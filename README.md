@@ -1,8 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=F79256&width=435&lines=Hey+there!+I'm+Preetham+N+A;Welcome+to+my+Tech+Space" alt="Typing SVG" />
 
-𐌌y 𐌋𐌉n𐌊𐌔 ↓
-
-<a href="https://hopperzuzer.github.io/"><img src="https://hopperzuzer.github.io/logo.png" width="20" height="20" alt="My Links"/></a> 
+𐌌y 𐌋𐌉n𐌊𐌔 → 
+<a href="https://preethm19.github.io/"><img src="https://preethm19.github.io/logo.png" width="20" height="20" alt="My Links"/></a> 
 ---
 [![](https://visitcount.itsvg.in/api?id=hopperzuzer&icon=3&color=6)](https://visitcount.itsvg.in)
 
